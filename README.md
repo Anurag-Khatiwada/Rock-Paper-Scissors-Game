@@ -1,9 +1,9 @@
-#Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game
 
-#Overview:
+# Overview:
 This repository contains a simple implementation of the classic Rock-Paper-Scissors game, created to practice and enhance my skills in HTML, CSS, and JavaScript. The project provides an engaging game interface where users can play Rock-Paper-Scissors against the computer, with visual feedback and score tracking.
 
-#Features
+# Features
 
 Interactive Gameplay: Users can choose Rock, Paper, or Scissors by clicking on the respective icons. The computer randomly generates its move, and the result is displayed on the screen.
 
@@ -15,7 +15,7 @@ Responsive Design: The layout is designed to be responsive, ensuring a smooth ex
 
 Clean and Simple UI: The interface is minimalistic yet functional, with clear icons for each choice and easy-to-use buttons for playing the move and starting a new game.
 
-#Tech Stack
+# Tech Stack
 
 HTML
 
@@ -23,7 +23,7 @@ CSS
 
 JavaScript
 
-#Project Purpose
+# Project Purpose
 
 This project was developed as part of my learning journey in web development, specifically to practice and solidify my understanding of HTML, CSS, and JavaScript. The primary focus was on implementing JavaScript to add interactive and dynamic functionality to the game while ensuring a visually appealing and user-friendly interface.
 
